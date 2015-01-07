@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Freebase", "Freebase\Freebase.fsproj", "{119B11A6-138B-4D1E-B84B-3D1FE744EE7E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SchoolEDM", "..\ConsoleApplication1\SchoolEDM\SchoolEDM.fsproj", "{A5B572A1-280F-4704-9541-DA0706820FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119B11A6-138B-4D1E-B84B-3D1FE744EE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119B11A6-138B-4D1E-B84B-3D1FE744EE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119B11A6-138B-4D1E-B84B-3D1FE744EE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119B11A6-138B-4D1E-B84B-3D1FE744EE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B572A1-280F-4704-9541-DA0706820FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B572A1-280F-4704-9541-DA0706820FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B572A1-280F-4704-9541-DA0706820FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B572A1-280F-4704-9541-DA0706820FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

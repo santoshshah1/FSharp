@@ -1,0 +1,12 @@
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\Freebase.exe.config
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\Freebase.XML
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\Freebase.exe
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\Freebase.pdb
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Core.dll
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Data.dll
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Data.TypeProviders.dll
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Data.pdb
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Data.xml
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\bin\Debug\FSharp.Core.xml
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\obj\Debug\Freebase.exe
+C:\Users\San\Documents\Visual Studio 2013\Projects\Freebase\Freebase\obj\Debug\Freebase.pdb
