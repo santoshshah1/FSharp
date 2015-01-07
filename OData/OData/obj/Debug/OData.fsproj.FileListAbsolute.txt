@@ -1,0 +1,10 @@
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\obj\Debug\OData.fsproj.OData.exe.config
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\OData.exe.config
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\OData.XML
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\OData.exe
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\OData.pdb
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\FSharp.Core.dll
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\FSharp.Data.TypeProviders.dll
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\bin\Debug\FSharp.Core.xml
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\obj\Debug\OData.exe
+C:\Users\San\Documents\Visual Studio 2013\Projects\OData\OData\obj\Debug\OData.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>OData</name></assembly>
+<members>
+<member name="T:Program.ODataSource">
+<summary>Provides the types to access an OData service</summary><param name="ServiceUri">The Uri for the OData service</param><param name='LocalSchemaFile'>The local .csdl file for the service schema</param><param name='ForceUpdate'>Require that a direct connection to the service be available at design-time and force the refresh of the local schema file (default: true)</param><param name='ResolutionFolder'>The folder used to resolve relative file paths at compile-time (default: folder containing the project or script)</param><param name='DataServiceCollection'>Generate collections derived from DataServiceCollection (default: false)</param>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Program">
+
+</member>
+</members>
+</doc>
